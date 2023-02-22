@@ -1,0 +1,47 @@
+[
+	{
+		"id": 1,
+		"title": "pina",
+		"description": "hey apple hey",
+		"price": 50,
+		"thumbnail": "con foto",
+		"code": "codigo3",
+		"stock": 89
+	},
+	{
+		"id": 2,
+		"title": "Pera",
+		"description": "Es un pera",
+		"price": 40,
+		"thumbnail": "sin foto",
+		"code": "codigo3",
+		"stock": 56
+	},
+	{
+		"id": 0,
+		"title": "Manzana",
+		"description": "Es una manzana",
+		"price": 20,
+		"thumbnail": "sin foto",
+		"code": "codigo1",
+		"stock": 120
+	},
+	{
+		"id": 1,
+		"title": "Banana",
+		"description": "Es un banano",
+		"price": 10,
+		"thumbnail": "sin foto",
+		"code": "codigo2",
+		"stock": 23
+	},
+	{
+		"id": 0,
+		"title": "Manzana",
+		"description": "Es una manzana",
+		"price": 20,
+		"thumbnail": "sin foto",
+		"code": "codigo4",
+		"stock": 120
+	}
+]
